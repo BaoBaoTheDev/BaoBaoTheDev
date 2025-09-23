@@ -21,7 +21,8 @@
 
 <h3 align="left">Kết nối với tớ:</h3>
 <p align="left">
-<a href="https://fb.com/ghét ăn rau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghét ăn rau" height="30" width="40" /></a>
+<a href="<img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/19091e4a-76bd-4f4f-ad1f-13bbc4c63a78" />
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghét ăn rau" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Ngôn ngữ và Công cụ:</h3>
