@@ -15,7 +15,7 @@
 
 - 💬 Hãy hỏi tớ về **DevOps**
 
-- 📫 Cách liên lạc: **baobaothedev@outlook.com**
+- 📫 Cách liên lạc: **baobaothedev@gmail.com**
 
 - ⚡ Điều thú vị: **i miss her**
 
